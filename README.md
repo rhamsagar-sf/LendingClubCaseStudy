@@ -40,12 +40,10 @@
 18. Loan when given to applicants with 10+ years employment exp and rate of interest 16-20% the risk of defaulting is higher.
 
 ## Technologies Used
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import warnings
-warnings.filterwarnings('ignore')
+pandas 
+numpy
+matplotlib.pyplot
+seaborn
 
 ## Contact
 Created by [@rhamsagar-sf] - feel free to contact me!
